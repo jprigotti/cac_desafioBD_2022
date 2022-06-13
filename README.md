@@ -2,9 +2,9 @@
 
 <p>En este repositorio encontraras</p>
 <ul>
-<li><p>Enunciado "4Desafío Base de datos 2022.pdf"</p></i>
+<li><p>Enunciado "DesafioBD_2022_Enunciado.pdf"</p></i>
 <li><p>El SQL script generado en Workbench 8.0 "desafioBD2022.sql" en donde se crea la base, las 2 tablas y las consultas del ejercicio</p></i>
-<li><p>El archivo de Excel "Estructura de tablas.xlsx" en donde se define la estructura de la tabla y se preparan las filas para importar en el Script MySQL</p></i>
+<li><p>El archivo de Excel "Estructura_de_tablas.xlsx" en donde se define la estructura de la tabla y se preparan las filas para importar en el Script MySQL</p></i>
 <li><p>El mysqldump (backup) de la base que se realizó antes de correr las consultas "desafiobd_mysqldump_20220612.sql"</p></li>
 
 <h2>Links externos recomendados</h2>
